@@ -1,0 +1,10 @@
+{
+  "name": "mini-tradingview",
+  "private": true,
+  "packageManager": "pnpm@9.0.0",
+
+  "scripts": {
+    "collector": "pnpm --filter @mini-tradingview/collector dev",
+    "aggregator": "pnpm --filter @mini-tradingview/aggregator dev"
+  }
+}
