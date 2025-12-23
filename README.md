@@ -1,3 +1,3 @@
-# mini-tradingview
+# crypto-view
 
-Monorepo scaffold for a mini TradingView-style market data platform using pnpm workspaces.
+CryptoView is a high performance realtime market data platform for crypto assets
